@@ -38,7 +38,8 @@ def func4(a: list, b: list):
                 c.append(a[i])
 
     print(c)
+    
 
-
+#5
 def calculation(x, y):
     print("+:", x + y, "\n-:", x - y)
